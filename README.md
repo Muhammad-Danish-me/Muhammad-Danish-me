@@ -1,3 +1,4 @@
+<header align="center"> <img src="https://github.com/Muhammad-Danish-me/Muhammad-Danish-me/blob/main/github-header-image%20(1).png?raw=true" alt="Header" /> </header>
 <h1 align="center">Hi 👋, I'm Muhammad Danish</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">

@@ -21,10 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-danish-me&show_icons=true&locale=en&layout=compact" alt="muhammad-danish-me" /></p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-danish-me&" alt="muhammad-danish-me" /></p>
-
-
-
-
-
